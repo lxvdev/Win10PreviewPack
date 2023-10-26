@@ -44,6 +44,7 @@ If you have icon suggestions or improvements to the action center, I welcome con
 ## Credits
 
 This Windows 10 Icon Pack is brought to you by lxvdev. Thank you for supporting our project!
+Thanks for the idea WinNT64
 
 ## License
 
